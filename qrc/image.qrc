@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="videothumbnail">../assets/image/videothumbnail.png</file>
+        <file alias="separator">../assets/image/separator.png</file>
+    </qresource>
+</RCC>

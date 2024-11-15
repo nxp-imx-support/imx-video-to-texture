@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="main">../qml/main.qml</file>
+        <file>../qml/MediaControls.qml</file>
+        <file>../qml/MediaThumbnails.qml</file>
+        <file>../qml/qmldir</file>
+        <file>../qml/Style.qml</file>
+    </qresource>
+</RCC>

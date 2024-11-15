@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="play">../assets/icons/play.svg</file>
+        <file alias="pause">../assets/icons/pause.svg</file>
+        <file alias="repeat">../assets/icons/repeat.svg</file>
+        <file alias="forward_10">../assets/icons/forward_10.svg</file>
+        <file alias="backward_10">../assets/icons/backward_10.svg</file>
+        <file alias="next">../assets/icons/skip_next.svg</file>
+        <file alias="previous">../assets/icons/skip_previous.svg</file>
+        <file alias="fullscreen">../assets/icons/fullscreen.svg</file>
+    </qresource>
+</RCC>
