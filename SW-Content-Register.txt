@@ -13,6 +13,10 @@ Description and comments:   application to demonstrate the use of gstreamer glup
 Release Location:           https://github.com/nxp-imx-support/imx-video-to-texture
 Origin:                     NXP (BSD-3-Clause)
                             The Qt Company Ltd. (BSD-3-Clause)
+                                https://code.qt.io/cgit/qt/qtdeclarative.git/tree/examples/quick/scenegraph/openglunderqml?h=6.5.3
+                                https://code.qt.io/cgit/qt/qtdeclarative.git/tree/examples/quick/scenegraph/rendernode?h=5.15
+                            The Qt Company Ltd. (LGPL-3.0-only) - https://github.com/qt
+                            Gstreamer (LGPL-2.1-only) - https://github.com/GStreamer/gstreamer
 
 --------------------------------------------
 Package:                    assets
